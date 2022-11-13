@@ -29,7 +29,12 @@
 ## Installation
 
 ```bash
+# instalation
 $ npm install
+
+# instalation databases
+$ npx prisma db push
+
 ```
 
 ## Running the app
